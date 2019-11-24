@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Black Larch window framing."
+title: "Ramen in gelamelleerde lariks."
 author: "Simon Boury"
 categories: documentation
 tags: [woodworking,masstimber]
