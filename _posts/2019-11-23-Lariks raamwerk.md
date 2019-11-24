@@ -2,8 +2,8 @@
 layout: post
 title: "Ramen in gelamelleerde lariks."
 author: "Simon Boury"
-categories: documentation
-tags: [woodworking,masstimber]
+categories: renovatie
+tags: [...]
 image: https://filedn.com/lj67qC0hliH44v76dOIV97H/Rondhout/2019%2011%20Black%20Larch/Black-larch-1.jpg
 ---
 
