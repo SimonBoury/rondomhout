@@ -4,7 +4,7 @@ title: "Black Larch window framing."
 author: "Simon Boury"
 categories: documentation
 tags: [woodworking,masstimber]
-image: 20191123 Tenabele raamwerk 014
+image: https://www.mountbakerexperience.com/wp-content/uploads/2017/08/2014StarSlam11914-1024x683.jpg
 ---
 
 
@@ -13,6 +13,8 @@ Supplier (manufacturer): [Eurabo](https://www.eurabo.be/nl) / [Eugen Decker](htt
 ## Getting Started
 
 [Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+
+!image[]
 
 ## Example Content
 
