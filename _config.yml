@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Rond Hout"
+title:		           "Rondhout"
 description:	       "Duurzaam renoveren met focus op hout"
 author:              "Simon Boury"
 
