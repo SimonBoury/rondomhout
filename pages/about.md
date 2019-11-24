@@ -1,6 +1,11 @@
 ---
 layout: misc
-title: About
+title: Over
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+**"Rond Hout"** is een enerzijds een digitaal inspiratieplatform en anderzijds een documentatieblog van mijn persoonlijke renovatie van een oude bungalowwoning. Hierbij leg ik de focus op:
+
+* bouwen met hout
+* circulair bouwen
+* bio-klimatische architectuur
+* volksarchitectuur
