@@ -4,7 +4,7 @@ title: "Black Larch window framing."
 author: "Simon Boury"
 categories: documentation
 tags: [woodworking,masstimber]
-image: cuba-1.jpg
+image: 20191123 Tenabele raamwerk 014
 ---
 
 
