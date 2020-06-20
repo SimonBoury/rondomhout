@@ -1,10 +1,7 @@
 <header class="site-header">
-  <h3 class="site-title">
     <div class="header-image">
             <img src="https://filedn.com/lj67qC0hliH44v76dOIV97H/Rondhout/0%20-%20Communication/Rondhout%20header-01.svg" class="img-fluid">
       </div>
-     {% can be removed: a href="{{ site.github.url }}/">{{ site.title }} %}
-  </h3>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
