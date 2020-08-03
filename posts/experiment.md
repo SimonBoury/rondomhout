@@ -1,6 +1,6 @@
 ---
 layout: default
-title: experiment
+title: #experiment
 has_children: true
 nav_order: 2
 ---
