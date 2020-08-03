@@ -1,5 +1,4 @@
 ---
----
 layout: default
 title: Lariks raamwerk
 parent: "#experiment"
