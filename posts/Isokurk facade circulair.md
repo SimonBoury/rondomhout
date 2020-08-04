@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lariks raamwerk
+title: Isokurk facade circulair
 parent: "#experiment"
 ---
 
