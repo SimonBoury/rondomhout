@@ -10,8 +10,11 @@ Kurk is ongevoelig voor vocht en kan dus als gevelbekleding worden toegepast. AL
 
 ![Isokurk facade & Plato Vuren regelwerk](https://filedn.com/lj67qC0hliH44v76dOIV97H/rondomhout/2020%2004%20Cork%20facade/Cork-facade-1.jpg)
 
+In deze opbouw werd de facade-kurk (40mm met liplas) mechanisch bevestigd aan de gevel door middel van een houten voorzetstructuur. De houten voorzetstructuur is uitgevoerd in Plato Vuren (thermisch behandeld constructiehout). Het verticale lijnenspel kan tevens ook de basis vormen voor een klimstructuur voor planten.
 
 ![Isokurk facade overzicht](https://filedn.com/lj67qC0hliH44v76dOIV97H/rondomhout/2020%2004%20Cork%20facade/Cork-facade-3.jpg)
+
+Aangezien het hier om een renovatie gaat, werd er gekozen om de onderste kurk laag (100mm) met een kalkmortel te verankeren. Dit vergemakkelijkt het vochttransport tussen de muur en de dampopenisolatie. Hierdoor zal vocht makkelijker een weg banen naar buiten.
 
 ***
 
