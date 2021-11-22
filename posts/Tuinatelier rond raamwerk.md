@@ -4,9 +4,13 @@ title: Tuinatelier rond raamwerk
 parent: "#experiment"
 ---
 
-# Materiaalefficiënt bouwen, de toekomst.
+> Als ooit niemand het gebouw nog nodig heeft, breken we het gewoon af. Als een kermistent, als het ware.
+>
+> <cite> - Thomas Rau </cite>
 
-Tuinatelier werd ontworpen op basis van formaten van recupramen in meranti die bij de woningrenovatie waren uitgebroken. Volgens de huidige energetische normen waren deze niet meer geschikt voor in de buitenschil van een woning. Echter wel in perfecte staat voor in een onverwarmde/occasioneel verwarmd atelierruimte. De openingen in de structuur werden voorzien van de nodige stelruimte. Aangezien alles op voorhand verzaagd en gefreesd werd volgens 3d-model, volstond een stelruimte van 1cm rondom rond. Dit ook vooral omwille van relatief "beperkte" omvang van de structuur en raampartijen. Indien grote (schuif)ramen worden gerecupereerd kan het relevant zijn om de stelruimte iets ruimer te nemen. Bij afbraak en transport van omvangrijk buitenschrijnwerk is het niet onrealistisch dat het raamkozijn niet meer perfect haaks is.
+# Demonteerbare draagstructuren (ref. VIJVE)
+
+Dit tuinatelier werd ontworpen op basis van formaten van recupramen in meranti die bij de woningrenovatie waren uitgebroken. Volgens de huidige energetische normen waren deze niet meer geschikt voor in de buitenschil van een woning. Echter wel in perfecte staat voor in een onverwarmde/occasioneel verwarmd atelierruimte. De openingen in de structuur werden voorzien van de nodige stelruimte. Aangezien alles op voorhand verzaagd en gefreesd werd volgens 3d-model, volstond een stelruimte van 1cm rondom rond. Dit ook vooral omwille van relatief "beperkte" omvang van de structuur en raampartijen. Indien grote (schuif)ramen worden gerecupereerd kan het relevant zijn om de stelruimte iets ruimer te nemen. Bij afbraak en transport van omvangrijk buitenschrijnwerk is het niet onrealistisch dat het raamkozijn niet meer perfect haaks is.
 
 <iframe src="https://3dwarehouse.sketchup.com/embed/011d93a8-2775-4240-af19-ca93c353d269" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width=100% height="450" allowfullscreen></iframe> 
 
