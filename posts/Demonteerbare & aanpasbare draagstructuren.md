@@ -14,10 +14,6 @@ Dit tuinatelier werd ontworpen op basis van formaten van recupramen in meranti d
 
 Alle houtverbindingen werden op voorhand verzaagd en ingefreesd bij Eurabo. Zij gebruiken hiervoor hun [balkbewerkingscentrum Hundegger Robot Drive.](https://www.eurabo.be/nl/balkbewerking-houtbouw) In combinatie met [regelbare kolomvoeten type "PIBA"](https://www.eurabo.be/nl/producten/simpson-strong-tie-kolomvoet-piba) voor hoge belasting van Simpson Strongtie verloopt plaatsing snel & accuraat. De kolomvoeten werden de week voor levering van het hout reeds verankerd, in betonplaat waardoor we onmidellijk van start konden gaan met de houtstructuur.
 
-
-
-
-
 In de structuren die we neerpoten staat transparantie steeds centraal. Door de structuur transparant te gaan opbouwen, creeër je enerzijds de mogelijkheid om tijdens de gebruiksfase van het gebouw eventuele aanpassingen te doen. Bijkomend kan de structuur bij afbraak veilig en niet-destructief ontmanteld worden. De hoofd draagstructuur van dit gebouw kan perfect ontmanted worden en nadien op een andere locatie opnieuw worden opgebouwd. De wandopvullingen tussen de paal-balk structuur zullen vermoedelijk te bevuild zijn met schroefgaten (hier worden de isolatieplaten en het regelwerk voor de gevel op gemonteerd) en zijn te fragiel om vervolgens nog te gaan herbruiken. Maar door de sectie hiervan te minimaliseren (SLS 38x63) kunnen we dit beperken tot 10% van de massa van het dragende houtstructuur.
 
 <img src="https://raw.githubusercontent.com/SimonBoury/rondomhout/9ea952aa05558c21add0b1f213f0dbb4a9bb0a5a/assets/images/2020%20VIJVE/2020%20VIJVE%20001.jpg"/>
