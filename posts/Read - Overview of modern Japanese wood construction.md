@@ -5,6 +5,7 @@ parent: "#reading"
 ---
 
 Auteur: Dr. Yoshiaki Amino 
+
 [Bron](https://events.forum-holzbau.com/pdf/an_overview-Yoshiaki.pdf)
 
 Document focust op de laterale krachtwerking binnen de Japanse architectuur. Japanse architectuur heeft lang teruggevallen op semi-rigide structuren zonder diagonale uitstijving of beplating. Door zware aardbevingen in 1891 en verschillende materiaaltekorten door oorlog groeide het draagvlak voor slankere structuren met metalen connectoren en diagonale uistijving.
